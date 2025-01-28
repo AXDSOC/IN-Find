@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/NTJQD3g/IMG-20250127-095742.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/NTJQD3g/IMG-20250127-095742.jpg" alt="project-screenshot" width="900" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
